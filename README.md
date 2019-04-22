@@ -1,2 +1,2 @@
 # Data-science-project
-Using python to explore data and build predict model
+Using python, explore data and build model to predict user behavior
