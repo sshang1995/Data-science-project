@@ -1,7 +1,7 @@
 # Overview
 This report is about capital bikeshare data analysis. The dataset comes from capital Bikeshare website. The data from 2010 to 2017, each csv file has 7 columns. Capital Bikeshare is metro DC's bikeshare service, with 4,300 bikes and 500+ stations across 6 jurisdictions: Washington, DC.; Arlington, VA; Alexandria, VA; Montgomery, MD; Prince George's County, MD; and Fairfax County, VA. Designed for quick trips with convenience in mind, it's a fun and affordable way to get around. I used python and SQL to do data analysis and explained several questions about users' behavior. And I applied machine learning methods (decision tree and random forest) to predict duration of bike using.
 # Research questions
-## 1. where so capital bikeshare riders go?
+## 1. where do capital bikeshare riders go?
 ```python
 import numpy as np
 import pandas as pd
